@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    display: flex;}
+    .half-width{
+        width: 50%;
+    }
+    .content-area h1{
+        font-size: 50px;
+    width: 400;
+    border-left: 2px solid tomato;
+    }
+    .content-area p {
+     width: 80%;
+    text-align: justify;}
+    .content-area{
+    padding-left: 70px;
+    padding-top:50px;}
+    .content-area a{
+        background-color: tomato;
+        text-decoration: none; 
+        color: white;
+        font-weight:780 ;
+        padding: 10px 40px;
+        border-radius: 5px;
+     
+    }
